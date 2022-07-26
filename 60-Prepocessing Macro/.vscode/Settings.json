@@ -1,0 +1,12 @@
+
+{
+    "editor.fontSize" : 20,
+    "window.zoomLevel" : 0.5,
+    "terminal.intergrated.fontSize" : 19,
+    "workbench.colorTheme" : "Noctis Uva",
+    "workbench.iconTheme": "vscode-icons",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
